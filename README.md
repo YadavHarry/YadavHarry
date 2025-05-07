@@ -1,3 +1,9 @@
+<!-- Banner -->
+<p align="center">
+  <img src="new1.jpg" alt="Hariom Yadav Banner" style="width:100%; max-height:300px;">
+</p>
+
+
 # 💫 About Me:
 Hi, I'm Hariom — a passionate and curious developer with a strong interest in [your field, e.g., AI/ML, IoT, Web Development]. I'm currently pursuing my B.Tech in Artificial Intelligence and Machine Learning, and I love building real-world projects that solve meaningful problems.<br><br>🔧 Tech Stack & Interests :<br>💻 Languages: Python, C++, JavaScript<br><br>🤖 Specializing in: Machine Learning, Deep Learning, Computer Vision, IOT Researcher<br><br>📡 Exploring: IoT, Edge AI, Home Automation (KNX, Wi-Fi-based systems)<br><br>🛠️ Tools: Jupyter Notebook, Git, Linux, OpenCV, TensorFlow
 
